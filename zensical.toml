@@ -260,15 +260,21 @@ features = [
 # Read more:
 # - https://zensical.org/docs/setup/colors/
 # ----------------------------------------------------------------------------
-[[project.theme.palette]]
-scheme = "default"
-toggle.icon = "lucide/sun"
-toggle.name = "Switch to dark mode"
-
+# Dark mode (Default)
 [[project.theme.palette]]
 scheme = "slate"
+primary = "black"
+accent = "indigo"
 toggle.icon = "lucide/moon"
 toggle.name = "Switch to light mode"
+
+# Light mode
+[[project.theme.palette]]
+scheme = "default"
+primary = "black"
+accent = "indigo"
+toggle.icon = "lucide/sun"
+toggle.name = "Switch to dark mode"
 
 # ----------------------------------------------------------------------------
 # In the "font" subsection you can configure the fonts used. By default, fonts
