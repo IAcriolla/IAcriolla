@@ -1,8 +1,10 @@
 <div align="center">
 
-# ⚡ AI & Development Playbook
+# ⚡ IAcriolla
 
-> **The Zen of Engineering**: Strict Standards. Production Ready. Agent Optimized.
+> **Inteligencia Artificial y soluciones de datos con viveza criolla 💫**
+>
+> [iacriolla.com](https://iacriolla.com)
 
 [![Test Template](https://github.com/lilidl-nft/AI/actions/workflows/test-template.yml/badge.svg)](https://github.com/lilidl-nft/AI/actions/workflows/test-template.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
