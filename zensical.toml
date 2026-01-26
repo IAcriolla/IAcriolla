@@ -74,7 +74,7 @@ repo_url = "https://github.com/IAcriolla/IAcriolla"
 # Section for configuring theme options
 # ----------------------------------------------------------------------------
 [project.theme]
-favicon = "assets/images/logo.png"
+favicon = "/assets/images/logo.png"
 
 # change this to "classic" to use the traditional Material for MkDocs look.
 #variant = "classic"
@@ -207,7 +207,7 @@ features = [
 
     # When pruning is enabled, only the visible navigation items are included
     # in the rendered HTML, reducing the size of the built site by 33% or more.
-    # https://zensical.org/docs/setup/navigation/#navigation-pruning
+    # https://zensical.org/docs/authoring/navigation/#navigation-pruning
     #"navigation.prune",
 
     # When sections are enabled, top-level sections are rendered as groups in
@@ -225,7 +225,7 @@ features = [
     # https://zensical.org/docs/setup/navigation/#sticky-navigation-tabs
     #"navigation.tabs.sticky",
 
-    # A back-to-top button can be shown when the user, after scrolling down,
+    # A back-to-top button can be shown when the user, after scrolling down,  
     # starts to scroll up again.
     # https://zensical.org/docs/setup/navigation/#back-to-top-button
     "navigation.top",
@@ -241,20 +241,20 @@ features = [
     # https://zensical.org/docs/setup/search/#search-highlighting
     "search.highlight",
 
-    # When anchor following for the table of contents is enabled, the sidebar
-    # is automatically scrolled so that the active anchor is always visible.
+    # When anchor following for the table of contents is enabled, the sidebar 
+    # is automatically scrolled so that the active anchor is always visible.  
     # https://zensical.org/docs/setup/navigation/#anchor-following
     # "toc.follow",
 
-    # When navigation integration for the table of contents is enabled, it is
+    # When navigation integration for the table of contents is enabled, it is 
     # always rendered as part of the navigation sidebar on the left.
-    # https://zensical.org/docs/setup/navigation/#navigation-integration
+    # https://zensical.org/docs/setup/navigation/#navigation-integration      
     #"toc.integrate",
 ]
 
 # ----------------------------------------------------------------------------
-# In the "palette" subsection you can configure options for the color scheme.
-# You can configure different color # schemes, e.g., to turn on dark mode,
+# In the "palette" subsection you can configure options for the color scheme. 
+# You can configure different color # schemes, e.g., to turn on dark mode,    
 # that the user can switch between. Each color scheme can be further
 # customized.
 #
@@ -279,7 +279,7 @@ toggle.name = "Switch to dark mode"
 
 # ----------------------------------------------------------------------------
 # In the "font" subsection you can configure the fonts used. By default, fonts
-# are loaded from Google Fonts, giving you a wide range of choices from a set
+# are loaded from Google Fonts, giving you a wide range of choices from a set 
 # of suitably licensed fonts. There are options for a normal text font and for
 # a monospaced font used in code blocks.
 # ----------------------------------------------------------------------------
@@ -288,24 +288,23 @@ toggle.name = "Switch to dark mode"
 #code = "Jetbrains Mono"
 
 # ----------------------------------------------------------------------------
-# You can configure your own logo to be shown in the header using the "logo"
-# option in the "icons" subsection. The logo can be a path to a file in your
+# You can configure your own logo to be shown in the header using the "logo"  
+# option in the "icons" subsection. The logo can be a path to a file in your  
 # "docs_dir" or it can be a path to an icon.
 #
-# Likewise, you can customize the logo used for the repository section of the
-# header. Zensical derives the default logo for this from the repository URL.
+# Likewise, you can customize the logo used for the repository section of the 
+# header. Zensical derives the default logo for this from the repository URL. 
 # See below...
 #
-# There are other icons you can customize. See the documentation for details.
+# There are other icons you can customize. See the documentation for details. 
 #
 # Read more:
 # - https://zensical.org/docs/setup/logo-and-icons
 # - https://zensical.org/docs/authoring/icons-emojis/#search
 # ----------------------------------------------------------------------------
 [project.theme.icon]
-logo = "assets/images/logo.png"
+logo = "/assets/images/logo.png"
 #repo = "lucide/smile"
-
 # ----------------------------------------------------------------------------
 # The "extra" section contains miscellaneous settings.
 # ----------------------------------------------------------------------------
