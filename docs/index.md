@@ -1,8 +1,6 @@
 # ⚡ IAcriolla
 
 > **Inteligencia Artificial y soluciones de datos con viveza criolla 💫**
->
-> [iacriolla.com](https://iacriolla.com)
 
 ---
 
