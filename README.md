@@ -26,65 +26,21 @@
 
 ---
 
-## 🗺️ Navigation
+## 🚀 Portfolio de Proyectos
 
-| 🏗️ **Templates & Configs** | 📚 **Development Guides** | 🏛️ **Architecture & AI** |
-| :--- | :--- | :--- |
-| [**Python Starter**](templates/python-starter/)<br>_FastAPI + uv + Structlog_ | [**Best Practices**](guides/python_best_practices.md)<br>_Zen of Python, PEP 8, Typing_ | [**RAG Systems**](architecture/rag_best_practices.md)<br>_Vectors, Chunking, Retrieval_ |
-| [**Enforceable Configs**](configs/)<br>_Ruff, Mypy, Pre-commit_ | [**API Design**](guides/api_rules.md)<br>_REST, Versioning, Security_ | [**MCP Servers**](architecture/mcp_best_practices.md)<br>_Tool Design & Safety_ |
-| | [**Definition of Done**](guides/testing_and_dod.md)<br>_Testing Pyramid & Quality_ | [**Agent Context**](llms.txt)<br>_Optimized for LLMs_ |
+Bienvenido al repositorio central de **IAcriolla**. Este espacio está dedicado a la construcción de soluciones de Inteligencia Artificial, Ingeniería de Datos y Automatización.
 
----
+Aquí encontrarás una colección de proyectos que demuestran capacidades en:
 
-## 🚀 Workflow: Ship It.
-
-Follow this checklist to go from idea to production-ready code.
-
-### 1. Scaffold
-Start your project with our battle-tested template.
-```bash
-# Requires cookiecutter (uv tool install cookiecutter)
-cookiecutter https://github.com/lilidl-nft/AI --directory templates/python-starter
-```
-
-### 2. Enforce
-Don't debate style. Enforce it from day one.
-```bash
-cp configs/pyproject.toml .              # The Rules
-cp configs/pre-commit-config.yaml .      # The Gatekeeper
-mkdir -p .github/workflows && cp configs/ci.yml .github/workflows/ # The Judge
-```
-
-### 3. Contextualize
-Give your AI assistant the rules of engagement.
-```bash
-cp guides/gemini_rules.md .cursorrules   # Or gemini_rules.md
-```
-
-### 4. Verify
-Run the quality gates. If this fails, do not commit.
-```bash
-uv run pytest        # Test Logic
-uv run ruff check    # Fix Style
-uv run mypy .        # Check Types
-```
+*   🤖 **Agentes de IA y LLMs**
+*   📊 **Análisis y Procesamiento de Datos**
+*   🛠️ **Backend y APIs Robustas** (FastAPI, Python)
+*   ✨ **Automatización de Procesos**
 
 ---
 
-## 🤖 Agentic Usage
+### 📂 Proyectos Destacados
 
-This repository is **machine-readable**.
+*Construyendo el futuro, commit a commit.*
 
-*   **For RAG**: Feed `llms.txt` to your model for instant context.
-*   **For Chat**: Use `prompts/system_prompt.md` as the System Message.
-*   **For Agents**: Read `agent_manifest.json` to discover tools and templates programmatically.
-
----
-
-## ⚖️ Decision Log (ADR)
-*Why we do what we do.*
-
-*   [**001: Use `uv`**](adr/001-use-uv-for-dependency-management.md) - Speed & Determinism.
-*   [**002: Pragmatic Typing**](adr/002-pragmatic-strict-typing.md) - Safety without the toil.
-*   [**003: `src/` Layout**](adr/003-src-layout.md) - No import hacks.
-*   [**004: Async I/O**](adr/004-async-by-default.md) - Concurrency by default.
+> *Este repositorio sirve como punto de entrada y demostración de estándares de ingeniería de software aplicados a la IA.*
