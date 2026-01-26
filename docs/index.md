@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="assets/images/logo.png" width="200" alt="IAcriolla Logo">
+</div>
+
 # ⚡ IAcriolla
 
 > **Inteligencia Artificial y soluciones de datos con viveza criolla 💫**
