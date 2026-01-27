@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/images/web2.png" width="500" alt="IAcriolla Web">
+  <img src="assets/images/web2.png" width="300" alt="IAcriolla Web">
 </div>
 
 # ⚡ IAcriolla
