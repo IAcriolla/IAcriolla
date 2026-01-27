@@ -51,6 +51,9 @@ repo_url = "https://github.com/IAcriolla/IAcriolla"
 # Read more: https://zensical.org/docs/setup/navigation/
 nav = [
    { "Home" = "index.md" },
+   { "About me" = "about.md" },
+   { "Blog" = "blog.md" },
+   { "Contact me" = "contact.md" },
 ]
 
 # With the "extra_css" option you can add your own CSS styling to customize
