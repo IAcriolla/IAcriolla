@@ -75,8 +75,8 @@ repo_url = "https://github.com/IAcriolla/IAcriolla"
 # Section for configuring theme options
 # ----------------------------------------------------------------------------
 [project.theme]
-logo = "assets/images/logo.png"
-favicon = "assets/images/logo.png"
+logo = "assets/images/png_sinfondo.png"
+favicon = "assets/images/png_sinfondo.png"
 
 # change this to "classic" to use the traditional Material for MkDocs look.
 #variant = "classic"
