@@ -1,5 +1,7 @@
 <div align="center">
   <img src="assets/images/logo.png" width="200" alt="IAcriolla Logo">
+  <br>
+  <img src="assets/images/nombre_sinfondo.png" width="300" alt="IAcriolla Nombre">
 </div>
 
 # ⚡ IAcriolla
