@@ -1,3 +1,9 @@
+---
+title: Home
+hide:
+  - navigation
+---
+
 <p align="center">
   <img src="assets/images/web2.png" width="300" alt="IAcriolla Web">
 </p>
