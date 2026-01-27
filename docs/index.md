@@ -1,8 +1,4 @@
----
-title: Home
-hide:
-  - navigation
----
+# Portfolio
 
 <p align="center">
   <img src="assets/images/web2.png" width="300" alt="IAcriolla Web">
@@ -26,8 +22,6 @@ hide:
 </p>
 
 ---
-
-## 🚀 Portfolio
 
 Bienvenido al repositorio central de **IAcriolla**. 
 Este espacio está dedicado a la construcción de soluciones de Inteligencia Artificial, ingeniería de datos y automatización.
