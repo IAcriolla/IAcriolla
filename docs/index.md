@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="assets/images/web_sinfondo.png" width="500" alt="IAcriolla Web">
-</div>
-
 # ⚡ IAcriolla
 
 > **Inteligencia Artificial y soluciones de datos con viveza criolla 💫**
