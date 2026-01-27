@@ -1,9 +1,7 @@
 <div align="center">
   <img src="docs/assets/images/web2.png" width="300" alt="IAcriolla Web">
 
-# ⚡ IAcriolla
-
-> **Inteligencia Artificial y soluciones de datos con viveza criolla 💫**
+# **Inteligencia Artificial y soluciones de datos con viveza criolla 💫**
 >
 > [iacriolla.com](https://iacriolla.com)
 
@@ -26,7 +24,7 @@
 
 ## 🚀 Portfolio
 
-Bienvenido al repositorio central de **IAcriolla**. Este espacio está dedicado a la construcción de soluciones de Inteligencia Artificial, Ingeniería de Datos y Automatización.
+Bienvenido al repositorio central de **IAcriolla**. Este espacio está dedicado a la construcción de soluciones de Inteligencia Artificial, ingeniería de datos y automatización.
 
 Aquí encontrarás una colección de proyectos que demuestran capacidades en:
 
@@ -40,5 +38,3 @@ Aquí encontrarás una colección de proyectos que demuestran capacidades en:
 ### 📂 Proyectos Destacados
 
 *Construyendo el futuro, commit a commit.*
-
-> *Este repositorio sirve como punto de entrada y demostración de estándares de ingeniería de software aplicados a la IA.*
