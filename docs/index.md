@@ -8,6 +8,7 @@ title: Portfolio
 
 <p align="center">
   <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT"></a>
+  <a href="https://github.com/astral-sh/ruff"><img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/astral-sh/ruff/main/assets/badge/v2.json" alt="Ruff"></a>
   <a href="llms.txt"><img src="https://img.shields.io/badge/Agentic-Ready-blueviolet" alt="Agentic: Ready"></a>
 </p>
 
@@ -25,19 +26,29 @@ title: Portfolio
 
 ---
 
-# Portfolio
+# AI Engineer & Data Specialist
 
-Bienvenido al repositorio central de **IAcriolla**. 
-Este espacio está dedicado a la construcción de soluciones de Inteligencia Artificial, ingeniería de datos y automatización.
+> **Transformando datos complejos en decisiones inteligentes.**
 
-Aquí encontrarás una colección de proyectos variados como:
+Bienvenido a **IAcriolla**. Aquí combino ingeniería de software robusta con soluciones de IA pragmáticas. Mi enfoque es la "viveza criolla" aplicada al código: resolver problemas reales con creatividad y eficiencia, sin sobre-ingeniería innecesaria.
 
-*   📊 **Análisis y Procesamiento de Datos**
-*   🤖 **Agentes de IA y RAG**
-*   🛠️ **Automatización de Procesos**
+### 🚀 Proyectos Destacados
+
+A continuación, una selección de proyectos que demuestran mi capacidad para entregar valor de punta a punta.
+
+| Proyecto | Tech Stack | Impacto / Resultado |
+| :--- | :--- | :--- |
+| **[Nombre del Proyecto 1]** | `Python` `LangChain` `FastAPI` | *Breve descripción del problema resuelto y la métrica de éxito (ej. Reducción del 40% en tiempo).* |
+| **[Nombre del Proyecto 2]** | `RAG` `VectorDB` `React` | *Descripción enfocada en la arquitectura o el desafío técnico superado.* |
+| **[Nombre del Proyecto 3]** | `Data Engineering` `ETL` | *Descripción enfocada en el volumen de datos o la automatización lograda.* |
+
+> [Ver todos los proyectos en GitHub →](https://github.com/IAcriolla)
 
 ---
 
-### 📂 Proyectos Destacados
+### 🎯 Mis Especialidades
 
-*Construyendo el futuro, commit a commit.*
+*   🤖 **Agentes de IA & LLMs:** Diseño de sistemas autónomos y pipelines RAG.
+*   📊 **Ingeniería de Datos:** Procesamiento, limpieza y estructuración de datos.
+*   🛠️ **Backend Moderno:** APIs rápidas, asíncronas y tipadas con Python.
+*   ⚡ **Automatización:** Scripts que eliminan el trabajo repetitivo.
