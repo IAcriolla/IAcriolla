@@ -1,19 +1,23 @@
-<div align="center">
+<p align="center">
   <img src="assets/images/web2.png" width="300" alt="IAcriolla Web">
+</p>
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Ruff](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/astral-sh/ruff/main/assets/badge/v2.json)](https://github.com/astral-sh/ruff)
-[![Agentic: Ready](https://img.shields.io/badge/Agentic-Ready-blueviolet)](llms.txt)
+<p align="center">
+  <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT"></a>
+  <a href="https://github.com/astral-sh/ruff"><img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/astral-sh/ruff/main/assets/badge/v2.json" alt="Ruff"></a>
+  <a href="llms.txt"><img src="https://img.shields.io/badge/Agentic-Ready-blueviolet" alt="Agentic: Ready"></a>
+</p>
 
 <br />
 
-**The Stack**
-
-![Python](https://img.shields.io/badge/Python-3.11%2B-blue?logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?logo=fastapi&logoColor=white)
-![uv](https://img.shields.io/badge/uv-Dependency%20Manager-purple)
-![Pydantic](https://img.shields.io/badge/Pydantic-Settings-e92063?logo=pydantic&logoColor=white)
-</div>
+<p align="center">
+  <strong>The Stack</strong>
+  <br>
+  <img src="https://img.shields.io/badge/Python-3.11%2B-blue?logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/FastAPI-005571?logo=fastapi&logoColor=white" alt="FastAPI">
+  <img src="https://img.shields.io/badge/uv-Dependency%20Manager-purple" alt="uv">
+  <img src="https://img.shields.io/badge/Pydantic-Settings-e92063?logo=pydantic&logoColor=white" alt="Pydantic">
+</p>
 
 ---
 
