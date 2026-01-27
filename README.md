@@ -1,7 +1,6 @@
 <div align="center">
   <img src="docs/assets/images/web2.png" width="300" alt="IAcriolla Web">
 
-
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Ruff](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/astral-sh/ruff/main/assets/badge/v2.json)](https://github.com/astral-sh/ruff)
 [![Agentic: Ready](https://img.shields.io/badge/Agentic-Ready-blueviolet)](llms.txt)
@@ -14,7 +13,6 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?logo=fastapi&logoColor=white)
 ![uv](https://img.shields.io/badge/uv-Dependency%20Manager-purple)
 ![Pydantic](https://img.shields.io/badge/Pydantic-Settings-e92063?logo=pydantic&logoColor=white)
-
 </div>
 
 ---

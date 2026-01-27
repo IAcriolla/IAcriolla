@@ -13,7 +13,6 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?logo=fastapi&logoColor=white)
 ![uv](https://img.shields.io/badge/uv-Dependency%20Manager-purple)
 ![Pydantic](https://img.shields.io/badge/Pydantic-Settings-e92063?logo=pydantic&logoColor=white)
-
 </div>
 
 ---
