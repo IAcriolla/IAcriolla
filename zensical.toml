@@ -49,9 +49,9 @@ repo_url = "https://github.com/IAcriolla/IAcriolla"
 # can be defined using TOML syntax.
 #
 # Read more: https://zensical.org/docs/setup/navigation/
-# nav = [
-#   { "Inicio" = "index.md" },
-# ]
+nav = [
+   { "Home" = "index.md" },
+]
 
 # With the "extra_css" option you can add your own CSS styling to customize
 # your Zensical project according to your needs. You can add any number of
@@ -204,8 +204,7 @@ features = [
 
     # When navigation paths are activated, a breadcrumb navigation is rendered
     # above the title of each page
-    # https://zensical.org/docs/setup/navigation/#navigation-path
-    "navigation.path",
+    # "navigation.path",
 
     # When pruning is enabled, only the visible navigation items are included
     # in the rendered HTML, reducing the size of the built site by 33% or more.
