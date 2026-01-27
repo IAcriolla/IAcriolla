@@ -23,9 +23,6 @@ title: Portfolio
   <img src="https://img.shields.io/badge/FastAPI-005571?logo=fastapi&logoColor=white" alt="FastAPI">
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?logo=langchain&logoColor=white" alt="LangChain">
   <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?logo=google&logoColor=white" alt="Google Gemini">
-  <img src="https://img.shields.io/badge/uv-Dependency%20Manager-purple" alt="uv">
-  <img src="https://img.shields.io/badge/Pydantic-Settings-e92063?logo=pydantic&logoColor=white" alt="Pydantic">
-  <a href="https://github.com/astral-sh/ruff"><img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/astral-sh/ruff/main/assets/badge/v2.json" alt="Ruff"></a>
 </p>
 
 ---
