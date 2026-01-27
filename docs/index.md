@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="assets/images/web2.png" width="500" alt="IAcriolla Web">
+</div>
+
 # ⚡ IAcriolla
 
 > **Inteligencia Artificial y soluciones de datos con viveza criolla 💫**
