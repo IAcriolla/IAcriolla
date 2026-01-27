@@ -1,9 +1,6 @@
 <div align="center">
   <img src="docs/assets/images/web2.png" width="300" alt="IAcriolla Web">
 
-# **Inteligencia Artificial y soluciones de datos con viveza criolla 💫**
->
-> [iacriolla.com](https://iacriolla.com)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Ruff](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/astral-sh/ruff/main/assets/badge/v2.json)](https://github.com/astral-sh/ruff)
@@ -24,14 +21,14 @@
 
 ## 🚀 Portfolio
 
-Bienvenido al repositorio central de **IAcriolla**. Este espacio está dedicado a la construcción de soluciones de Inteligencia Artificial, ingeniería de datos y automatización.
+Bienvenido al repositorio central de **IAcriolla**. 
+Este espacio está dedicado a la construcción de soluciones de Inteligencia Artificial, ingeniería de datos y automatización.
 
-Aquí encontrarás una colección de proyectos que demuestran capacidades en:
+Aquí encontrarás una colección de proyectos variados como:
 
-*   🤖 **Agentes de IA y LLMs**
 *   📊 **Análisis y Procesamiento de Datos**
-*   🛠️ **Backend y APIs Robustas**
-*   ✨ **Automatización de Procesos**
+*   🤖 **Agentes de IA y RAG**
+*   🛠️ **Automatización de Procesos**
 
 ---
 
