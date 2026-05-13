@@ -8,14 +8,14 @@
  
 </p>
 
-# IAcriolla 🧉💻
+## IAcriolla 🧉💻
 
 **A "cyber-criollo" laboratory for Local AI, Multi-Agent systems, and Cognitive Psychology experiments.**
 
 This is where I build, break, and optimize tools at the intersection of human cognition and local-first artificial intelligence. 
 
 
-## 🌪️ Current Experiment: Typhon Stress Test
+### 🌪️ Current Experiment: Typhon Stress Test
 
 **Typhon** is an Open Source testing framework designed to evaluate the resilience and performance of **Local AI** environments.
 
